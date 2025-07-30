@@ -270,9 +270,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions, suggestions, or just want to connect:
 
 - **GitHub**: https://github.com/SurajK221b
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
-
+- **LinkedIn**: https://www.linkedin.com/in/surajkhodade
+- **Email**: suraj.khodade7@gmail.com
 ---
 
 ⭐ **Star this repository if you found it helpful!** ⭐
